@@ -1,0 +1,184 @@
+main{
+    width : 100%;
+    margin-top: 2rem;
+    text-align: center;
+    
+}
+
+div{
+    width: 100%;
+  
+}
+
+div.documentos{
+    width: 100%;
+
+}
+
+input.nombreF{
+font-size: 30pt;
+}
+
+input.ApellidoF{
+    font-size: 30pt;
+    margin-left: 5rem;
+    }
+
+input.tipoDocumentoF
+{
+    font-size: 30pt;
+    margin-left: 1rem ;
+}
+
+body{
+    padding: 15em 30em;
+}
+
+input.apellido{
+    font-size: 15pt;
+    margin-left: 4rem;
+    height: 30px;
+    width: 490px;
+}
+
+input.nombre{
+    font-size: 15pt;
+    height: 30px;
+    width: 490px;
+}
+
+input.documento1{
+    font-size: 15pt;
+    height: 30px;
+    width: 215px;
+}
+
+input.documento2{
+    font-size: 15pt;
+    height: 30px;
+    width: 215px;
+    margin-left: 3.2rem;
+}
+
+input.Correo{
+    margin-left: 4rem;
+    font-size: 15pt;
+    height: 30px;
+    width: 490px;
+}
+
+input.año{
+    margin-left: 1.5rem;
+    font-size: 15pt;
+    height: 30px;
+    width: 50px;
+}
+
+
+input.mes{
+    margin-left: 1.5rem;
+    font-size: 15pt;
+    height: 30px;
+    width: 50px;
+}
+
+input.dia{
+    margin-left: 0rem;
+    font-size: 15pt;
+    height: 30px;
+    width: 50px;
+}
+
+input.telefono {
+    margin-left: 3.2rem;
+    font-size: 15pt;
+    height: 30px;
+    width: 215px;
+}
+
+input.contraseña{
+    margin-left: 4rem;
+    font-size: 15pt;
+    height: 30px;
+    width: 490px;
+}
+
+button.registrarse{
+    font-size: 15pt;
+    height: 30px;
+    width: 490px;
+    background-color: blueviolet;
+    color: white;
+    margin-right: 4.3rem;
+}
+button.google{
+
+    height: 30px;
+    width: 115px;
+    background-color: white;
+    border :black 2px solid;
+    color: black;
+    margin-left: 1rem;
+    text-align: center;
+}
+
+button.facebook{
+
+    background-color: blue;
+    color:white;
+    border: 2px solid black;
+    height: 30px;
+    width: 115px;
+    margin-left: 1rem;
+}
+button.linkedin{
+    background-color:#117BB8;
+    color:white;
+    border: 2px solid black;
+    height: 30px;
+    width: 115px;
+    margin-left: 1rem;
+}
+
+input.check{
+    margin-left: 35rem;
+}
+h1.registro{
+    color: blueviolet;
+    font-size: 30pt;
+}
+html{
+    background-image: url(https://i.ibb.co/FsXfMZL/Tama-o-personalizado-1.png);
+    background-size: 1900px;
+    background-repeat: no-repeat;
+}
+
+button.botonNav1{
+    width : 10;
+    margin-left: 4rem;
+    margin-bottom: 0rem;
+    border: 2px solid white;
+    background-color: #6E4AB7;
+  
+ }
+
+ button.botonNav2{
+    width : 10;
+    margin-left: 4rem;
+    margin-bottom: 0rem;
+    border: 2px solid white;
+    background-color: #870592;
+  
+ }
+
+ p.inicial{
+    
+    margin-left: 60rem;
+    color: white
+}
+
+p.siguiente{
+    
+    margin-left: 8rem;
+    color: white
+ }
